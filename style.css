@@ -1,0 +1,30 @@
+body {
+
+    font-family: sans-serif;
+
+}
+
+#shape {
+
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+
+}
+
+.bold {
+
+    font-weight: bold;
+
+}
+
+#wrapper {
+
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+
+}
